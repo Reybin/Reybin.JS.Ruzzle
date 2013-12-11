@@ -1,1 +1,1 @@
--Ruzzle :: https://github.com/Reybin/Reybin.JS.Ruzzle.git
+-Ruzzle :: http://reybin.github.io/Reybin.JS.Ruzzle
