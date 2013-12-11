@@ -10,6 +10,15 @@ body {
     text-shadow: 1px 1px 5px grey, 1px 1px 150px #868695;
 }
 
+p {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color:  #FAFAFE;
+    text-shadow: 1px 1px 5px grey, 1px 1px 150px #868695;
+    font-size: 15px;
+}
+
 .imagen-A {
     text-align: center;
     margin-left:  20%;
