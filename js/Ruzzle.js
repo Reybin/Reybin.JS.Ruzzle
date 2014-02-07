@@ -21,7 +21,8 @@ $(document).ready(function() {
         llenar(this.src);
         $(".notable").show(1000);
         $(this).parent().hide(300);
-        $(".imagen-A").hide(300);        
+        $(".imagen-A").hide(300);
+        $(".reload").show(900);       
         $( ".box .draggable" ).draggable({
             drag: function( event, ui) {
                 $(this).css("opacity","0.2")
@@ -42,5 +43,8 @@ $(document).ready(function() {
                 $(this).css("opacity", "1");
            };
         });
+    });
+    $(".reload").click(function(){
+        location.reload();
     });
 });

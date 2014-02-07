@@ -25,7 +25,13 @@ p {
     margin-top: 50px;
     margin-bottom: -3px;
     border-radius: 2px;
+}
 
+.reload{    
+    text-align: center;
+    margin-left:  20%;
+    margin-top: 50px;
+    display: none;
 }
 
 
